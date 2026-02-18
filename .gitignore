@@ -63,6 +63,7 @@ output/
 *.html
 *.txt
 !requirements.txt
+!requirements-api.txt
 !README.md
 !QUICKSTART.md
 
